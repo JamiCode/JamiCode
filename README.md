@@ -5,12 +5,14 @@ I'm a full-stack developer in the United Arab Emirates, passionate about craftin
 
 - **Programming Languages**: Java, JavaScript, Python
 - **Frontend**: React, React Native, Next.js, Vue
-- **Backend**: FastAPI, Node.js, Django, Flask
+- **Backend**: FastAPI, Node.js, Django, Flask, Express.js
 - **Database**: MySQL, PostgreSQL
 - **Others**: HTML5, CSS3, Git
 
 # [![My Skills](https://skillicons.dev/icons?i=js,html,css,Python)](https://skillicons.dev)
 # [![My Skills](https://skillicons.dev/icons?i=react,vue&perline=3)](https://skillicons.dev)
+# [![My Skills](https://skillicons.dev/icons?i=django, fastapi, express )](https://skillicons.dev)
+
 
 
 
