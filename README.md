@@ -12,7 +12,7 @@ I'm a full-stack developer in the United Arab Emirates, passionate about craftin
 # [![My Skills](https://skillicons.dev/icons?i=js,html,css,Python)](https://skillicons.dev)
 # [![My Skills](https://skillicons.dev/icons?i=react,vue&perline=3)](https://skillicons.dev)
 # [![My Skills](https://skillicons.dev/icons?i=django,fastapi,express )](https://skillicons.dev)
-# [![My Skills](https://skillicons.dev/icons?i=postgres, mysql)](https://skillicons.dev)
+# [![My Skills](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
 
 
 
