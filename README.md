@@ -8,6 +8,8 @@ I'm a full-stack developer in the United Arab Emirates, passionate about craftin
 - **Backend**: FastAPI, Node.js, Django, Flask
 - **Database**: MySQL, PostgreSQL
 - **Others**: HTML5, CSS3, Git
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 
 ## Get in Touch
 
