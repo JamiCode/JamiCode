@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there! 👋 I'm Jamike
 
-<!--
-**JamiCode/JamiCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer based in the United Arab Emirates, passionate about crafting robust and scalable software solutions. My expertise lies in utilizing a variety of tools and technologies to build web and mobile applications.
 
-Here are some ideas to get you started:
+## Skills & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend**: React, React Native
+- **Backend**: FastAPI, Node.js, Django, Flask
+- **Database**: MySQL, MongoDB
+- **Others**: HTML5, CSS3, JavaScript, Git
+
+## Get in Touch
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) or [Twitter](https://twitter.com/your-twitter-profile). Let's chat about tech, coding, or anything else that piques your interest!
