@@ -1,14 +1,14 @@
 # Hi there! 👋 I'm Jamike
 
-I'm a full-stack developer based in the United Arab Emirates, passionate about crafting robust and scalable software solutions. My expertise lies in utilizing a variety of tools and technologies to build web and mobile applications.
-
+I'm a full-stack developer in the United Arab Emirates, passionate about crafting robust and scalable software solutions.Specialized in fullstack web development
 ## Skills & Tools
 
-- **Frontend**: React, React Native
+- **Programming Languages**: Java, JavaScript, Python
+- **Frontend**: React, React Native, Next.js
 - **Backend**: FastAPI, Node.js, Django, Flask
-- **Database**: MySQL, MongoDB
-- **Others**: HTML5, CSS3, JavaScript, Git
+- **Database**: MySQL, PostgreSQL
+- **Others**: HTML5, CSS3, Git
 
 ## Get in Touch
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) or [Twitter](https://twitter.com/your-twitter-profile). Let's chat about tech, coding, or anything else that piques your interest!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jammich). Let's chat about tech, coding, or anything else piques your interest!
