@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Jamike
 
-I'm a full-stack developer in the United Arab Emirates, passionate about crafting robust and scalable software solutions.Specialized in fullstack web development
+I'm a full-stack developer in the United Arab Emirates, passionate about engineering web applications and mobile applications. I see coding as a fun sport. 
 ## Skills & Tools
 
 - **Programming Languages**: Java, JavaScript, Python
